@@ -1,0 +1,15 @@
+{
+  "name": "color-palette-harmonies",
+  "version": "1.0.0",
+  "description": "Interactive color harmony studio, WCAG 2.1 contrast analyzer, and CSS variables / Tailwind palette exporter",
+  "main": "index.js",
+  "bin": {
+    "color-harmonies": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["colors", "palette", "harmonies", "wcag", "contrast", "design-tools"],
+  "author": "",
+  "license": "MIT"
+}
