@@ -1,6 +1,14 @@
 # color-palette-harmonies
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-palette.satyamsethi.dpdns.org-3b82f6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://palette.satyamsethi.dpdns.org)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-Deployment-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://color-palette-harmonies.pages.dev)
+
 An interactive color harmony generator and WCAG 2.1 contrast analyzer with CSS variables export.
+
+## 🌐 Live Demo
+
+- **Primary Custom Domain**: [https://palette.satyamsethi.dpdns.org](https://palette.satyamsethi.dpdns.org)
+- **Cloudflare Pages Direct**: [https://color-palette-harmonies.pages.dev](https://color-palette-harmonies.pages.dev)
 
 ## What it does
 
